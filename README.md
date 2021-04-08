@@ -1,2 +1,2 @@
-## sergi.falgar.es
+## falgar.es
 Personal website
